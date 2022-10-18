@@ -218,7 +218,10 @@ div.box-social-footer h1{
 }
 
 div.box-social-footer img{
-    width: 1rem;
+    width: 1.3rem;
+}
+.language{
+    font-size: .8rem;
 }
 
 div.box-list-footer{
@@ -252,7 +255,7 @@ section.footer{
     justify-content: center;
     align-items: center;
 }
-div.bk-aqua{
+div.end-footer{
     width: 70%;
     display: flex;
     justify-content: space-between;
