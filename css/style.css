@@ -217,11 +217,21 @@ div.box-social-footer h1{
     padding-bottom: 1rem;
 }
 
+div.social{
+    color: white;
+    font-size: 1.5rem;
+    padding-top: 1rem;
+}
+
+div.social i{
+    padding-right: 1.5rem;
+}
+
 div.box-social-footer img{
     width: 1.3rem;
 }
-.language{
-    font-size: .8rem;
+footer span.language{
+    font-size: .9rem;
 }
 
 div.box-list-footer{
